@@ -1,0 +1,24 @@
+Project Name: Homeland
+Frontend: HTMl,CSS,Bootstrap
+Backend:Php Database
+
+Pages: Homepage
+	>Menu bar
+		>home,buy,rent,prperties,about,contact,login,register
+	>Search bar
+		>listing tye,offer type,city
+		>ascending,descending
+		>properties posted
+Pages: Property Pages
+	>Images slider of selected property pics
+	>Property details
+	>can add to favorites
+	>Request for a call
+	>related properties
+pages: Admin login
+Pages: Admin home
+	>Shows no of properties posted,Categories,Admins
+	>Option to create Admins & See current admin names
+	>Create and Update current properties types
+	>One can add & delete property posts
+	>Can see requests made by customers and link to thier selected posts
